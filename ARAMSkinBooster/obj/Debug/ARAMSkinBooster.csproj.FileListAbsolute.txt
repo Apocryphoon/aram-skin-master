@@ -1,0 +1,10 @@
+C:\Users\Ricardo\Desktop\aram-skin-booster-master\ARAMSkinBooster\bin\Debug\ARAMSkinBooster.exe.config
+C:\Users\Ricardo\Desktop\aram-skin-booster-master\ARAMSkinBooster\bin\Debug\ARAMSkinBooster.exe
+C:\Users\Ricardo\Desktop\aram-skin-booster-master\ARAMSkinBooster\bin\Debug\ARAMSkinBooster.pdb
+C:\Users\Ricardo\Desktop\aram-skin-booster-master\ARAMSkinBooster\bin\Debug\RestSharp.dll
+C:\Users\Ricardo\Desktop\aram-skin-booster-master\ARAMSkinBooster\bin\Debug\RestSharp.xml
+C:\Users\Ricardo\Desktop\aram-skin-booster-master\ARAMSkinBooster\obj\Debug\ARAMSkinBooster.csprojAssemblyReference.cache
+C:\Users\Ricardo\Desktop\aram-skin-booster-master\ARAMSkinBooster\obj\Debug\ARAMSkinBooster.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo\Desktop\aram-skin-booster-master\ARAMSkinBooster\obj\Debug\ARAMSkinBooster.csproj.CopyComplete
+C:\Users\Ricardo\Desktop\aram-skin-booster-master\ARAMSkinBooster\obj\Debug\ARAMSkinBooster.exe
+C:\Users\Ricardo\Desktop\aram-skin-booster-master\ARAMSkinBooster\obj\Debug\ARAMSkinBooster.pdb
