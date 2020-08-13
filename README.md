@@ -1,5 +1,5 @@
 # ARAM
-É um aplicativo console desenvolvido em **CSharp** com o objetivo de extrair da API do league of legends uma forma de bular o sistema de **bônus de rp** do modo de jogo **aram**. Eu não liberei o código mais um **.exe** devido a ele estar incompleto e eu ter alguns planos para ele futuramente.
+Esse projeto é licenciado pelo MIT, cuidado. É um aplicativo console desenvolvido em **CSharp** com o objetivo de extrair da API do league of legends uma forma de bular o sistema de **bônus de rp** do modo de jogo **aram**. Eu não liberei o código mais um **.exe** devido a ele estar incompleto e eu ter alguns planos para ele futuramente.
 
 # Instalação
 Clone esse repositorio ou então baixe o **.zip** e extraia para seu lugar de preferência.
